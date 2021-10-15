@@ -1,5 +1,4 @@
 # Reto 1 - Postobón
-***
 
 ## Pregunta:
 ¿Cómo podemos garantizar que los proveedores de material transformado aseguren el suministro del material en la calidad, cantidad y frecuencia necesarias para que POSTOBÓN materialice la circularidad de sus envases y empaques?
@@ -14,7 +13,7 @@
 7. [Herramientas necesarias para el desarrollo de la solución](#herramientas-necesarias-para-el-desarrollo-de-la-solución)
 8. [Conclusiones](#conclusiones)
 
-
+***
 
 ### Introducción
 ### Descripción del problema
