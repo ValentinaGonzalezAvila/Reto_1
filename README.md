@@ -35,7 +35,8 @@ Los requerimientos no funcionales representan características generales y restr
 
 Suelen presentar dificultades en su definición dado que su conformidad o no conformidad podría ser sujeto de libre interpretación, por lo cual es recomendable acompañar su definición con criterios de aceptación que se puedan medir d
 
-Para nuestro proyecto los requerimientos no funcionales son los sigueintes:
+Para nuestro proyecto los requerimientos no funcionales son los sigueintes
+
 1.El sistema debe ser capaz de procesar N transacciones por dia ingresados por cada empresa.
 2.Toda funcionalidad del sistema y transacción de negocio debe responder al usuario en menos de 5 segundos
 3.Los permisos de acceso al sistema podrán ser cambiados solamente por el administrador de acceso a datos.
