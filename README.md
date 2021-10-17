@@ -15,42 +15,43 @@
 
 ***
 
-### Introducción
-### Descripción del problema
-### Descripción de la solución 
-### Requerimientos Funcionales
+### 1. Introducción
+### 2. Descripción del problema
+### 3. Descripción de la solución 
+### 4. Requerimientos Funcionales
 Los requerimientos funcionales de un sistema, son aquellos que describen cualquier actividad que este deba realizar, en otras palabras, el comportamiento o función particular de un sistema o software cuando se cumplen ciertas condiciones.
 
 Por lo general, estos deben incluir funciones desempeñadas por pantallas específicas, descripciones de los flujos de trabajo a ser desempeñados por el sistema y otros requerimientos de negocio, cumplimiento, seguridad u otra índole.
 
 Para nuestro proyecto los requerimientos funcionles serian los siguientes:
-1. Descripciones de los datos a ser ingresados en el sistema
-2. Definición de quien puede ingresar datos en el sistema
-3. Definir cuales son los elementos a ingresar por cada empresa
-4. Al ingresar ordenes de entrega de materiales , cada oreden esteasociada a un unico numero.
-5. Al aprobar un pedido, la solicitud pasará al siguiente paso del flujo de trabajo (workflow) de aprobación configurado en el sistema.
-6. El sistema controlará el acceso y lo permitirá solamente a usuarios autorizados.
-### Requerimientos No Funcionales
+ 1. Descripciones de los datos a ser ingresados en el sistema
+ 2. Definición de quien puede ingresar datos en el sistema
+ 3. Definir cuales son los elementos a ingresar por cada empresa
+ 4. Al ingresar ordenes de entrega de materiales , cada oreden esteasociada a un unico numero.
+ 5. Al aprobar un pedido, la solicitud pasará al siguiente paso del flujo de trabajo (workflow) de aprobación configurado en el sistema.
+ 6. El sistema controlará el acceso y lo permitirá solamente a usuarios autorizados.
+ 
+### 5. Requerimientos No Funcionales
 Los requerimientos no funcionales representan características generales y restricciones de la aplicación o sistema que se esté desarrollando.
 
 Suelen presentar dificultades en su definición dado que su conformidad o no conformidad podría ser sujeto de libre interpretación, por lo cual es recomendable acompañar su definición con criterios de aceptación que se puedan medir d
 
 Para nuestro proyecto los requerimientos no funcionales son los sigueintes
 
-1.El sistema debe ser capaz de procesar N transacciones por dia ingresados por cada empresa.
+ 1.El sistema debe ser capaz de procesar N transacciones por dia ingresados por cada empresa.
 
-2.Toda funcionalidad del sistema y transacción de negocio debe responder al usuario en menos de 5 segundos
+ 2.Toda funcionalidad del sistema y transacción de negocio debe responder al usuario en menos de 5 segundos
 
-3.Los permisos de acceso al sistema podrán ser cambiados solamente por el administrador de acceso a datos.
+ 3.Los permisos de acceso al sistema podrán ser cambiados solamente por el administrador de acceso a datos.
 
-4.Todos los sistemas deben respaldarse cada 24 horas.
+ 4.Todos los sistemas deben respaldarse cada 24 horas.
 
-5.La pagina web debe ser compatible con todos los sistemas de busqueda
+ 5.La pagina web debe ser compatible con todos los sistemas de busqueda
 
-6.Las páginas web a ser desarrolladas deben cumplir con la ley de tratamiento en condiciones de igualdad para personas con discapacidad.
+ 6.Las páginas web a ser desarrolladas deben cumplir con la ley de tratamiento en condiciones de igualdad para personas con discapacidad.
 
-### Diagrama Relacional
-### Herramientas necesarias para el desarrollo de la solución
+### 6. Diagrama Relacional
+### 7. Herramientas necesarias para el desarrollo de la solución
 
 - Microsoft SQL Server (Base de datos)
 - Pagina web (.html)  
@@ -61,4 +62,4 @@ Para nuestro proyecto los requerimientos no funcionales son los sigueintes
   * Crear localhost en XAMPP
   
 
-### Conclusiones
+### 8. Conclusiones
