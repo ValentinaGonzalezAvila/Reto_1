@@ -38,10 +38,15 @@ Suelen presentar dificultades en su definición dado que su conformidad o no con
 Para nuestro proyecto los requerimientos no funcionales son los sigueintes
 
 1.El sistema debe ser capaz de procesar N transacciones por dia ingresados por cada empresa.
+
 2.Toda funcionalidad del sistema y transacción de negocio debe responder al usuario en menos de 5 segundos
+
 3.Los permisos de acceso al sistema podrán ser cambiados solamente por el administrador de acceso a datos.
+
 4.Todos los sistemas deben respaldarse cada 24 horas.
+
 5.La pagina web debe ser compatible con todos los sistemas de busqueda
+
 6.Las páginas web a ser desarrolladas deben cumplir con la ley de tratamiento en condiciones de igualdad para personas con discapacidad.
 
 ### Diagrama Relacional
