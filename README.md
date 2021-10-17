@@ -51,4 +51,14 @@ Para nuestro proyecto los requerimientos no funcionales son los sigueintes
 
 ### Diagrama Relacional
 ### Herramientas necesarias para el desarrollo de la solución
+
+- Microsoft SQL Server (Base de datos)
+- Pagina web (.html)  
+
+- Control XAMPP (version 3.2.2)
+  * Archivos de configuración de SQL Server (.dll)
+  * Conexión de Pagina web con Base de datos por medio de PHP (XAMPP)
+  * Crear localhost en XAMPP
+  
+
 ### Conclusiones
