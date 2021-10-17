@@ -23,6 +23,10 @@
 ***
 
 ### 1. Introducción
+
+A través de la historia las compañías han evolucionado conforme a las diferentes necesidades que presentan tanto sus consumidores como ellas mismas en sí.
+Hoy en día, gracias a la tecnología se están generando grandes cantidades de información, los datos generados deben ser almacenados, para luego poder acceder a ellos y generar a través de lo que conocemos como Business Intelligence estrategias, soluciones y porqué no, nuevos productos.
+
 ### 2. Descripción del problema
 ### 3. Descripción de la solución 
 ### 4. Requerimientos Funcionales
