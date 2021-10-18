@@ -49,10 +49,11 @@ Para nuestro proyecto los requerimientos funcionles serian los siguientes:
  1. El sistema debe ser capaz de procesar N transacciones por dia ingresados por cada empresa.
  2. Toda funcionalidad del sistema y transacción de negocio debe responder al usuario en menos de 5 segundos.
  3. Los permisos de acceso al sistema podrán ser cambiados solamente por el administrador de acceso a datos.
- 4. Todos los sistemas deben respaldarse cada 24 horas.
+ 4. Página web (Para uso de Postobón y empresas transformadoras)
  5. La pagina web debe ser compatible con todos los sistemas de busqueda
  6. Al ingresar ordenes de entrega de materiales , cada oreden esteasociada a un unico numero.
  7. El sistema permitirá el registro y la visualización de la información técnica.
+ 8. Base de datos relacional con información de transformadoras de cantidad, calidad, transformación (ton/año), entre otros)
  
 ### 5. Requerimientos No Funcionales
 Los requerimientos no funcionales representan características generales y restricciones de la aplicación o sistema que se esté desarrollando.
