@@ -53,7 +53,7 @@ Para nuestro proyecto los requerimientos funcionles serian los siguientes:
  5. La pagina web debe ser compatible con todos los sistemas de busqueda
  6. Al ingresar ordenes de entrega de materiales , cada oreden esteasociada a un unico numero.
  7. El sistema permitirá el registro y la visualización de la información técnica.
- 8. Base de datos relacional con información de transformadoras de cantidad, calidad, transformación (ton/año), entre otros)
+ 8. Base de datos relacional con información de transformadoras de cantidad, calidad, transformación (ton/año), entre otros).
  
 ### 5. Requerimientos No Funcionales
 Los requerimientos no funcionales representan características generales y restricciones de la aplicación o sistema que se esté desarrollando.
