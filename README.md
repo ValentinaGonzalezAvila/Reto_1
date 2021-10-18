@@ -70,6 +70,11 @@ Para nuestro proyecto los requerimientos no funcionales son los sigueintes
  5. Logo y colores de Postobón.
 
 ### 6. Diagrama Relacional
+
+- Modelo Lógico
+![image](https://user-images.githubusercontent.com/88067732/137781624-33bcaa48-7d50-43b8-8c96-70955fc42974.png)
+
+- Modelo Relacional
 ![image](https://user-images.githubusercontent.com/88067732/137773543-1e4e4e6e-3d36-432b-9d97-22a31bb59a58.png)
 
 ### 7. Herramientas necesarias para el desarrollo de la solución
