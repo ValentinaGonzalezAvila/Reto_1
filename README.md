@@ -28,7 +28,14 @@ A través de la historia las compañías han evolucionado conforme a las diferen
 Hoy en día, gracias a la tecnología se están generando grandes cantidades de información, los datos generados en cada segundo, deben ser almacenados, para luego poder acceder a ellos y generar a través de lo que conocemos como Business Intelligence estrategias, soluciones sostenibles y porqué no, nuevos productos.
 
 ### 2. Descripción del problema
+
+Las diferentes compañias están buscando la manera en la que a través de proyectos sostenibles se reduzca el uso de plásticos de un solo uso, una de las soluciones planteadas es reciclar los materiales para que no vayan a parar a los océanos  y dañen la fauna y flora.
+Otra de las problemáticas a la que nos enfrentamos es la informalidad en el sector del reciclaje, por lo que para hacerle frente a esto, a través de la resolución 1407 de 2018, se busca formalizar las empresas de reciclaje junto con sus diferentes colaboradores.
+ 
+
 ### 3. Descripción de la solución 
+
+
 ### 4. Requerimientos Funcionales
 Los requerimientos funcionales de un sistema, son aquellos que describen cualquier actividad que este deba realizar, en otras palabras, el comportamiento o función particular de un sistema o software cuando se cumplen ciertas condiciones.
 
