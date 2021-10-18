@@ -72,11 +72,10 @@ Para nuestro proyecto los requerimientos no funcionales son los sigueintes
 ### 6. Diagrama Relacional
 
 - Modelo Lógico
-![image](https://user-images.githubusercontent.com/88067732/137781624-33bcaa48-7d50-43b8-8c96-70955fc42974.png)
+![image](https://user-images.githubusercontent.com/88067732/137783320-a41037a4-5fb1-4e3c-b647-da1880ae6341.png)
 
 - Modelo Relacional
-![image](https://user-images.githubusercontent.com/88067732/137782116-736301ef-ccbe-4c25-b355-48e8f09d514d.png)
-
+![image](https://user-images.githubusercontent.com/88067732/137783437-e93f9851-6574-41e6-a3e7-e48e243ffba9.png)
 
 ### 7. Herramientas necesarias para el desarrollo de la solución
 
