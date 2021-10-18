@@ -85,6 +85,8 @@ Para nuestro proyecto los requerimientos no funcionales son los sigueintes
 
 - Pagina web (.html)  
 
+![image](https://user-images.githubusercontent.com/79549741/137814816-26d0e349-6ead-4b30-a61b-8a22d96588ae.png)
+
 - Control XAMPP (version 3.2.2)
 
   * Archivos de configuración de SQL Server (.dll)
