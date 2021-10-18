@@ -51,6 +51,8 @@ Para nuestro proyecto los requerimientos funcionles serian los siguientes:
  3. Los permisos de acceso al sistema podrán ser cambiados solamente por el administrador de acceso a datos.
  4. Todos los sistemas deben respaldarse cada 24 horas.
  5. La pagina web debe ser compatible con todos los sistemas de busqueda
+ 6. Al ingresar ordenes de entrega de materiales , cada oreden esteasociada a un unico numero.
+ 7. El sistema permitirá el registro y la visualización de la información técnica.
  
 ### 5. Requerimientos No Funcionales
 Los requerimientos no funcionales representan características generales y restricciones de la aplicación o sistema que se esté desarrollando.
@@ -62,9 +64,7 @@ Para nuestro proyecto los requerimientos no funcionales son los sigueintes
  1. Descripciones de los datos a ser ingresados en el sistema
  2. Definición de quien puede ingresar datos en el sistema
  3. Definir cuales son los elementos a ingresar por cada empresa
- 4. Al ingresar ordenes de entrega de materiales , cada oreden esteasociada a un unico numero.
- 5. Al aprobar un pedido, la solicitud pasará al siguiente paso del flujo de trabajo (workflow) de aprobación configurado en el sistema.
- 6. El sistema controlará el acceso y lo permitirá solamente a usuarios autorizados.
+ 4. 
 
 Diseño de la página web, formularios y visuales de consulta.
 
