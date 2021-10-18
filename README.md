@@ -86,10 +86,18 @@ Para nuestro proyecto los requerimientos no funcionales son los sigueintes
 - Pagina web (.html)  
 
 - Control XAMPP (version 3.2.2)
+
   * Archivos de configuración de SQL Server (.dll)
+  
+![image](https://user-images.githubusercontent.com/79549741/137814046-25f2b471-22bf-46e0-b398-cf8c68153c81.png)
+
   * Conexión de Pagina web con Base de datos por medio de PHP (XAMPP)
+
+![image](https://user-images.githubusercontent.com/79549741/137814098-66fb8609-544a-4ed4-9a5e-eca77d2845d0.png)
+
   * Crear localhost en XAMPP
   
+  ![image](https://user-images.githubusercontent.com/79549741/137814119-2cfe87ae-926f-4210-ae30-c71935c97e2a.png)
 
 ### 8. Conclusiones
 
