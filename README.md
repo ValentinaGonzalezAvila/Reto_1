@@ -75,7 +75,8 @@ Para nuestro proyecto los requerimientos no funcionales son los sigueintes
 ![image](https://user-images.githubusercontent.com/88067732/137781624-33bcaa48-7d50-43b8-8c96-70955fc42974.png)
 
 - Modelo Relacional
-![image](https://user-images.githubusercontent.com/88067732/137781896-dab04b25-8df9-4f2e-8828-c51d75ef8f4b.png)
+![image](https://user-images.githubusercontent.com/88067732/137782116-736301ef-ccbe-4c25-b355-48e8f09d514d.png)
+
 
 ### 7. Herramientas necesarias para el desarrollo de la solución
 
