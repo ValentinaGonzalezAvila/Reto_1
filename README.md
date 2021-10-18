@@ -29,15 +29,16 @@ Hoy en día, gracias a la tecnología se están generando grandes cantidades de 
 
 ### 2. Descripción del problema
 
-Las diferentes compañias están buscando la manera en la que a través de proyectos sostenibles se reduzca el uso de plásticos de un solo uso, una de las soluciones planteadas es reciclar los materiales para que no vayan a parar a los océanos  y dañen la fauna y flora.
+Las diferentes compañias están buscando la manera en la que a través de proyectos sostenibles se reduzca el uso de plásticos de un solo uso, una de las soluciones planteadas es reciclar los materiales para que no vayan a parar a los océanos y dañen la fauna y flora.
 Otra de las problemáticas a la que nos enfrentamos es la informalidad en el sector del reciclaje, por lo que para hacerle frente a esto, a través de la resolución 1407 de 2018, se busca formalizar las empresas de reciclaje junto con sus diferentes colaboradores.
- 
+
 
 ### 3. Descripción de la solución 
 
-En las diferentes reuniones sostenidas, se nos planteó la necesidad de obtención de información de los proveedores de las empresas transformadoras para que consigo las empresas que necesiten obtener la información de una oferta de determinado material puedan saber quién tiene disponible ese material.
+En las diferentes reuniones sostenidas, se nos planteó la necesidad de la obtención de información de los proveedores de las empresas transformadoras para que consigo las empresas que necesiten obtener la información de una oferta de determinado material puedan saber quién tiene disponible ese material.
 El problema es que esa información no la tiene nadie disponible. Sin embargo, a través de la resolución 1342 de 2020, la cuál modifica la resolución 1407 de 2020, podemos acceder a un formato de registro que utilizan las empresas transformadoras para su formalización con la entidad ambiental territorial encargada.
-Con la información que pretendemos obtener de esos formatos, plantemos una página web en la cuál las empresas como Postobón y las transformadoras tendrán que registrarse con un usuario el cual tendrá un rol específico. Por ejemplo, para Postobón, será un rol el cual tendrá la posibilidad de ver la información de la disponibilidad de materiales y de su transformadora, a través de una tabla, mientras que una empresa transformadora en su rol de usuario podrá registrar/actualizar la información de sus productos en tiempo real. Todo esto será posible gracias al uso de una base de datos que permite el registro, la actualización y el control de los datos que se ingresen 
+Con la información que pretendemos obtener de esos formatos, plantemos una página web en la cuál las empresas como Postobón y las transformadoras tendrán que registrarse con un usuario el cual tendrá un rol específico. Por ejemplo, para Postobón, será un rol el cual tendrá la posibilidad de ver la información de la disponibilidad de materiales y de su transformadora, a través de una tabla en tiempo real, mientras que una empresa transformadora en su rol de usuario podrá registrar/actualizar la información de sus productos en tiempo real. Todo esto será posible gracias al uso de una base de datos que permite el registro, la actualización y el control de los datos que se ingresen.
+
 
 ### 4. Requerimientos Funcionales
 Los requerimientos funcionales de un sistema, son aquellos que describen cualquier actividad que este deba realizar, en otras palabras, el comportamiento o función particular de un sistema o software cuando se cumplen ciertas condiciones.
@@ -65,11 +66,8 @@ Para nuestro proyecto los requerimientos no funcionales son los sigueintes
  1. Descripciones de los datos a ser ingresados en el sistema
  2. Definición de quien puede ingresar datos en el sistema
  3. Definir cuales son los elementos a ingresar por cada empresa
- 4. 
-
-Diseño de la página web, formularios y visuales de consulta.
-
-Logo y colores de Postobón.
+ 4. Diseño de la página web, formularios (colores, estructura y formas) y visuales de consulta.
+ 5. Logo y colores de Postobón.
 
 ### 6. Diagrama Relacional
 ![image](https://user-images.githubusercontent.com/88067732/137773543-1e4e4e6e-3d36-432b-9d97-22a31bb59a58.png)
@@ -86,3 +84,9 @@ Logo y colores de Postobón.
   
 
 ### 8. Conclusiones
+
+  1. Con esta iniciativa podemos llegar a proponer una solución sostenible para lograr tener una capacidad de consultar la cantidad y calidad del material transformado que ellos (Postobón) requieren.
+  2. Se logró la conexión de la página web con la base de datos por medio de PHP (XAMPP)
+  3. Se realizar la coexión de Microsoft SQL server con PHP y HTML
+  4. Gracias al conocimiento adquirido en la unidad de estudio Bases de Datos, logramos proponer una solución tecnológica al problema planteado por Postobón.
+
