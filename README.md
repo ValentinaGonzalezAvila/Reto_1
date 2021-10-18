@@ -67,6 +67,8 @@ Para nuestro proyecto los requerimientos no funcionales son los sigueintes
  6. Las páginas web a ser desarrolladas deben cumplir con la ley de tratamiento en condiciones de igualdad para personas con discapacidad.
 
 ### 6. Diagrama Relacional
+![image](https://user-images.githubusercontent.com/88067732/137773543-1e4e4e6e-3d36-432b-9d97-22a31bb59a58.png)
+
 ### 7. Herramientas necesarias para el desarrollo de la solución
 
 - Microsoft SQL Server (Base de datos)
