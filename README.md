@@ -80,6 +80,9 @@ Para nuestro proyecto los requerimientos no funcionales son los sigueintes
 ### 7. Herramientas necesarias para el desarrollo de la solución
 
 - Microsoft SQL Server (Base de datos)
+
+![image](https://user-images.githubusercontent.com/79549741/137813832-c57dd6e9-cf00-4904-9d20-eec26c2e190a.png)
+
 - Pagina web (.html)  
 
 - Control XAMPP (version 3.2.2)
