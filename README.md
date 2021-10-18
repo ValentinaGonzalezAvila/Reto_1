@@ -66,6 +66,10 @@ Para nuestro proyecto los requerimientos no funcionales son los sigueintes
  5. Al aprobar un pedido, la solicitud pasará al siguiente paso del flujo de trabajo (workflow) de aprobación configurado en el sistema.
  6. El sistema controlará el acceso y lo permitirá solamente a usuarios autorizados.
 
+Diseño de la página web, formularios y visuales de consulta.
+
+Logo y colores de Postobón.
+
 ### 6. Diagrama Relacional
 ![image](https://user-images.githubusercontent.com/88067732/137773543-1e4e4e6e-3d36-432b-9d97-22a31bb59a58.png)
 
