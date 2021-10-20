@@ -83,7 +83,7 @@ Para nuestro proyecto los requerimientos no funcionales son los sigueintes
 
 ![image](https://user-images.githubusercontent.com/79549741/137813832-c57dd6e9-cf00-4904-9d20-eec26c2e190a.png)
 
-- Pagina web (.html)  
+- Pagina web (.html)  https://girymaya.github.io/
 
 ![image](https://user-images.githubusercontent.com/79549741/137814816-26d0e349-6ead-4b30-a61b-8a22d96588ae.png)
 
