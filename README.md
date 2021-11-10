@@ -39,6 +39,10 @@ En las diferentes reuniones sostenidas, se nos planteó la necesidad de la obten
 El problema es que esa información no la tiene nadie disponible. Sin embargo, a través de la resolución 1342 de 2020, la cuál modifica la resolución 1407 de 2018, podemos acceder a un formato de registro que utilizan las empresas transformadoras para su formalización con la entidad ambiental territorial encargada.
 Con la información que pretendemos obtener de esos formatos, plantemos una página web en la cuál las empresas como Postobón y las transformadoras tendrán que registrarse con un usuario el cual tendrá un rol específico. Por ejemplo, para Postobón, será un rol el cual tendrá la posibilidad de ver la información de la disponibilidad de materiales y de su transformadora, a través de una tabla en tiempo real, mientras que una empresa transformadora en su rol de usuario podrá registrar/actualizar la información de sus productos en tiempo real. Todo esto será posible gracias al uso de una base de datos que permite el registro, la actualización y el control de los datos que se ingresen.
 
+#### Imagen del formato del formulario utilizado para generar la solución 
+![formularioRes1342-2020](https://user-images.githubusercontent.com/82173439/141158862-c8baa625-cf2f-4410-9c1d-1a6827c9e1b8.PNG)
+
+
 
 ### 4. Requerimientos Funcionales
 Los requerimientos funcionales de un sistema, son aquellos que describen cualquier actividad que este deba realizar, en otras palabras, el comportamiento o función particular de un sistema o software cuando se cumplen ciertas condiciones.
