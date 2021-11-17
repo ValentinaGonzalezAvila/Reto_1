@@ -1,0 +1,90 @@
+.form__text{
+  color:black;
+  padding: 15px;
+  text-align: center;
+  font-size: 16px;
+  border-radius:3px
+}
+
+.form-register{
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    background: white;
+    border-radius: 10px;
+}
+.form__titulo{
+    background: DodgerBlue;
+    color:white;
+    padding: 15px;
+    text-align: center;
+    font-weight: 100;
+    font-size: 40px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    font-family:Fuentenueva;
+}
+
+.form__tvisualizar{
+    background: #4267A2;
+    color:white;
+    padding: 15px;
+    text-align: center;
+    font-weight: 100;
+    font-size: 30px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    font-family:arial;
+}
+
+.a { border-collapse: separate;
+radius:2
+color:black;
+}
+
+
+.contenido {
+background:#EEE5E3;
+color:black;
+
+}
+table{
+  color:black;
+}
+
+h1{
+
+    color:white;
+    padding: 15px;
+    text-align: center;
+    font-weight: 100;
+    font-size: 40px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+}
+.contenedor-inputs{
+    padding: 15px 15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+input{
+    margin-bottom: 20px;
+    padding: 5.2px;
+    font-size: 16px;
+    border-radius: 15px;
+}
+.btn-enviar{
+    margin: auto;
+    padding: 10px 40px;
+}
+   	.menu li {display:inline-block;padding:20px 6.1px; }
+	body {background-color:white}
+	footer {padding:23px; font-size:15px; color:#4A9C61}
+	form { font-family: Fuentenueva;color : snow;}
+	@font-face {
+	font-family: Fuentenueva;
+	src: url("Traveling.ttf");
+	.test {
+	width:300px;
+	Height:90px;
+	}
